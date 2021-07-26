@@ -1,14 +1,3 @@
-﻿/*
-Miles Weber
-Period 8
-4/17/21
-This is my own work MBW
-This program is a bingo sheet that lets users randomize correct values and have a free space in the middle. When the user gets
-a bingo the sheet detects it automatically. The user is granted the ability to reset the board at any point
-
-*/
-
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
